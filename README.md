@@ -7,7 +7,7 @@
 #### Este repositorio contiene los ejercicios, tareas y proyectos realizados durante el semestre académico 2025B para la asignatura de Minería de Datos.
 
 ## I Corte
-*   [Taller](rstudio-JerssionFabianBuitragoM.zip)
+*   Taller: [Descargar ejercicio](rstudio-JerssionFabianBuitragoM.zip)
 
 
 
